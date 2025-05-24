@@ -96,8 +96,8 @@ input:focus, textarea:focus {
     line-height: 1;
 }
 
-.orange {
-    color: #f06449 !important;
+.blue {
+    color: #0c73c2 !important;
 }
 
 .link__hover-effect {
@@ -207,7 +207,7 @@ LANDING PAGE
 }
 
 .social__link {
-    background-color: #f06449;
+    background-color: #0c73c2;
     color: white;
     padding: 6px;
     width: 32px;
